@@ -7,8 +7,6 @@
  * Copyright (c) 2025 Yomero
  */
 
-package arboles;
-
 import java.util.ArrayList;
 import java.util.Iterator;
 

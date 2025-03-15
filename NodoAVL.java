@@ -1,4 +1,3 @@
-package arboles;
 
 public class NodoAVL<T extends Comparable<T>> {
     public T elem;
